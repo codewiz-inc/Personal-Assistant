@@ -16,5 +16,8 @@ This assistant is capable of answering the following questions ..
 
 
 Further decided to include many functionalities and decided to extend my assistant dynamic..
+
+disclaimer:
+use headphones for best results and recognition
 for queries
 contact:s.hariharancs@gmail.com
