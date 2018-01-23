@@ -94,7 +94,7 @@ def hs(data):
 
 # initialization
 time.sleep(1)
-speak("Hi Hari, what's up?")
+speak("Hi dude, what's up?")
 while 1:
     data = recordAudio()
     hs(data)
